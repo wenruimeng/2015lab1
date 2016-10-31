@@ -34,3 +34,5 @@ The diagram below should help elucidate the above and serve as a command cheat-s
 
 ![homework](cs109gitflow3.png)
 
+#jupyter shortcuts
+https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf/
